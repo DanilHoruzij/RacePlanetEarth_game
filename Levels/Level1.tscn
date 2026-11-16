@@ -169,9 +169,9 @@ point_in = Vector2( 0, 0 )
 point_out = Vector2( 0, 0 )
 properties = SubResource( 54 )
 
-[sub_resource type="Resource" id=56]
+[sub_resource type="Resource" id=75]
 script = ExtResource( 3 )
-texture_idx = 4
+texture_idx = 2
 flip = false
 width = 1.2
 
@@ -180,7 +180,7 @@ script = ExtResource( 7 )
 position = Vector2( 13104, 2183.71 )
 point_in = Vector2( 0, 0 )
 point_out = Vector2( 0, 0 )
-properties = SubResource( 56 )
+properties = SubResource( 75 )
 
 [sub_resource type="Resource" id=58]
 script = ExtResource( 3 )
